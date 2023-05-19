@@ -18,3 +18,5 @@ The dataset for this competition (both train and test) was generated from a deep
 train.csv - the training dataset; yield is the target
 test.csv - the test dataset; your objective is to predict the yield given the other features
 sample_submission.csv - a sample submission file in the correct format
+
+You can appy as late submission: https://www.kaggle.com/competitions/playground-series-s3e14/overview
