@@ -1,0 +1,13 @@
+Approach: Being my first open competition
+
+1. I tried to understand data.
+2. Works on missing values with the overall mean of the feature
+3. Converted needed catagorial labels into numeric form , using labelencoder
+4. Visualize the data to find a pattern
+5. Went for the randomforestclassifier
+6. Also used train_test_split to check hor model metrices
+7. Create a submission file and also checks for indexes
+8. Finally submitted the version.
+
+Score: 356.12117
+Rank: 1484/1875
