@@ -17,3 +17,5 @@ Approach and Result
 8. Approach to find the best Hyper Parameters
 9. Checking for indexes
 10. Creating submission file
+
+Result = Got the 1st position in the competition.
