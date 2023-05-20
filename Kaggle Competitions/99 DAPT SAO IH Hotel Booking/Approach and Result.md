@@ -19,3 +19,4 @@ Approach and Result
 10. Creating submission file
 
 Result = Got the 1st position in the competition.
+with a Accuracy Score of 0.9715
