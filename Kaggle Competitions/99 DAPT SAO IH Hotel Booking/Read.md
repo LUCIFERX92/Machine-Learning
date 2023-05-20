@@ -31,6 +31,8 @@ Training set (tb_hotel_traintest.csv) with all features and the response variabl
 Validation set (tb_hotel_feat_valid.csv) with all features for making predictions
 Sample submission (tb_hotel_sample_valid.csv), which is an example of the file you must submit with predictions made from the validation set.
 
+You can take part in it: https://www.kaggle.com/competitions/99-dapt-sao-ih-hotel-booking
+
 
 
 
