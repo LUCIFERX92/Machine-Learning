@@ -13,3 +13,5 @@ Files
 train.csv - the training dataset; Age is the target
 test.csv - the test dataset; your objective is to predict the probability of Age (the ground truth is int but you can predict int or float)
 sample_submission.csv - a sample submission file in the correct format
+
+In this I tried to teach how to approach this problem using xgb baseline
