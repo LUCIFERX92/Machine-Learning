@@ -16,3 +16,10 @@ Submissions will be evaluated using Mean Absolute Error (MAE),
 MAE
 
 where each x_i represents the predicted target, y_i represents the ground truth, and n is the number of rows in the test set.
+
+# Time Line
+
+Start Date - May 30, 2023
+Entry Deadline - Same as the Final Submission Deadline
+Team Merger Deadline - Same as the Final Submission Deadline
+Final Submission Deadline - June 12, 2023
